@@ -48,8 +48,10 @@ backends as services, including:
 
 - [hoodie](hood.ie)
 
-Other potential roll-your-own solution components:
+Other potential solution components to roll-your-own with open source:
 
 - [couchDB](couchdb.apache.org)
 - [socketIO](socket.io)
 - [express](expressjs.com)
+- [jwt](jwt.io)
+- [auth0](auth0.com)
