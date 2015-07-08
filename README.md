@@ -46,8 +46,10 @@ Actually, I'll just show a couple of quick node examples.
 If you want an open source solution, there are projects offering nice, simple,
 backends as services, including:
 
-- [hoodie](http://hood.ie)
+- [hoodie](hood.ie)
 
 Other potential roll-your-own solution components:
 
 - [couchDB](couchdb.apache.org)
+- [socketIO](socket.io)
+- [express](expressjs.com)
